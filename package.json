@@ -1,0 +1,9 @@
+{
+  "name": "quadratic-probing-hashmap",
+  "version": "0.0.1",
+  "repo": "willemt/quadratic-probing-hashmap",
+  "description": "Hashmap that uses quadratic probing for managing collisions",
+  "keywords": ["hashmap", "dictionary", "inplace", "open addressing"],
+  "license": "BSD",
+  "src": ["quadratic_probing_hashmap.c", "quadratic_probing_hashmap.h"]
+}
